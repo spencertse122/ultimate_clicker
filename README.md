@@ -29,8 +29,4 @@ flutter test
 
 <img width="301.5" height="655.5" alt="Simulator Screenshot - iPhone 15 Pro - 2025-11-13 at 19 16 06" src="https://github.com/user-attachments/assets/2f5c5f12-2a4d-404a-bf04-1fa9d338d596" />
 
-
-<video src="https://github.com/user-attachments/assets/ee93bc69-af7f-4005-9663-624aa679a8e4" width="480" controls></video>
-
-
-
+▶️ [Watch the demo video](https://github.com/user-attachments/assets/ee93bc69-af7f-4005-9663-624aa679a8e4)

@@ -27,4 +27,5 @@ flutter test
 
 > Ultimate Clicker – a 10‑second tap frenzy with a running top score and metal-inspired UI.*** End Patch
 
-<img width="301.5" height="655.5" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-13 at 19 08 38" src="https://github.com/user-attachments/assets/3b57fa2f-054d-449b-ac32-da178ddbc9d4" />
+<img width="301.5" height="655.5" alt="Simulator Screenshot - iPhone 15 Pro - 2025-11-13 at 19 16 06" src="https://github.com/user-attachments/assets/2f5c5f12-2a4d-404a-bf04-1fa9d338d596" />
+
